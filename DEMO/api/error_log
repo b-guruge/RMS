@@ -1,0 +1,11 @@
+[08-Oct-2020 07:37:59 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/crosspoint/public_html/DEMO/api/apistore.php on line 5
+[08-Oct-2020 07:37:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/crosspoint/public_html/DEMO/api/apistore.php on line 11
+[08-Oct-2020 07:37:59 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, boolean given in /home/crosspoint/public_html/DEMO/api/apistore.php on line 21
+[02-Nov-2020 05:29:49 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/crosspoint/public_html/DEMO/api/getInterviewees.php on line 6
+[02-Nov-2020 05:29:50 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/crosspoint/public_html/DEMO/api/getInterviewees.php on line 6
+[02-Nov-2020 05:31:37 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user ''@'localhost' (using password: NO) in /home/crosspoint/public_html/DEMO/api/getInterviewees.php on line 6
+[24-Nov-2020 05:38:13 UTC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER) in /home/crosspoint/public_html/DEMO/api/getInterviewees.php on line 11
+[24-Nov-2020 05:38:27 UTC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER) in /home/crosspoint/public_html/DEMO/api/getInterviewees.php on line 11
+[24-Nov-2020 05:38:44 UTC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER) in /home/crosspoint/public_html/DEMO/api/getInterviewees.php on line 11
+[24-Nov-2020 05:40:09 UTC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER) in /home/crosspoint/public_html/DEMO/api/getInterviewees.php on line 11
+[24-Nov-2020 05:40:43 UTC] PHP Parse error:  syntax error, unexpected ']', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/crosspoint/public_html/DEMO/api/getInterviewees.php on line 14

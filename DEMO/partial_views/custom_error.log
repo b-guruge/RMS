@@ -1,0 +1,617 @@
+[28-Jul-2020 12:38:27 Europe/Berlin] Header
+[28-Jul-2020 12:38:27 Europe/Berlin] Footer
+[28-Jul-2020 12:38:27 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in C:\xampp\htdocs\PortalPrint\controller\db.php:29
+Stack trace:
+#0 C:\xampp\htdocs\PortalPrint\controller\dbOperations.php(195): DataBase->fall(false)
+#1 C:\xampp\htdocs\PortalPrint\partial_views\model_levelwise_details.php(13): DBOperations->getLevelDetails(NULL, NULL, NULL)
+#2 {main}
+  thrown in C:\xampp\htdocs\PortalPrint\controller\db.php on line 29
+[28-Jul-2020 12:38:35 Europe/Berlin] Header
+[28-Jul-2020 12:38:35 Europe/Berlin] Footer
+[28-Jul-2020 12:38:35 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in C:\xampp\htdocs\PortalPrint\controller\db.php:29
+Stack trace:
+#0 C:\xampp\htdocs\PortalPrint\controller\dbOperations.php(195): DataBase->fall(false)
+#1 C:\xampp\htdocs\PortalPrint\partial_views\model_levelwise_details.php(13): DBOperations->getLevelDetails(NULL, NULL, NULL)
+#2 {main}
+  thrown in C:\xampp\htdocs\PortalPrint\controller\db.php on line 29
+[28-Jul-2020 12:38:53 Europe/Berlin] Header
+[28-Jul-2020 12:38:53 Europe/Berlin] Footer
+[28-Jul-2020 12:38:53 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in C:\xampp\htdocs\PortalPrint\controller\db.php:29
+Stack trace:
+#0 C:\xampp\htdocs\PortalPrint\controller\dbOperations.php(195): DataBase->fall(false)
+#1 C:\xampp\htdocs\PortalPrint\partial_views\model_levelwise_details.php(13): DBOperations->getLevelDetails(NULL, NULL, NULL)
+#2 {main}
+  thrown in C:\xampp\htdocs\PortalPrint\controller\db.php on line 29
+[28-Jul-2020 12:39:03 Europe/Berlin] Header
+[28-Jul-2020 12:39:03 Europe/Berlin] Footer
+[28-Jul-2020 12:39:03 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in C:\xampp\htdocs\PortalPrint\controller\db.php:29
+Stack trace:
+#0 C:\xampp\htdocs\PortalPrint\controller\dbOperations.php(195): DataBase->fall(false)
+#1 C:\xampp\htdocs\PortalPrint\partial_views\model_levelwise_details.php(13): DBOperations->getLevelDetails(NULL, NULL, NULL)
+#2 {main}
+  thrown in C:\xampp\htdocs\PortalPrint\controller\db.php on line 29
+[28-Jul-2020 13:02:33 Europe/Berlin] Header
+[28-Jul-2020 13:02:33 Europe/Berlin] Footer
+[28-Jul-2020 13:02:33 Europe/Berlin] PHP Warning:  Use of undefined constant count - assumed 'count' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\PortalPrint\partial_views\model_levelwise_details.php on line 13
+[28-Jul-2020 13:02:33 Europe/Berlin] PHP Notice:  Array to string conversion in C:\xampp\htdocs\PortalPrint\partial_views\model_levelwise_details.php on line 13
+[28-Jul-2020 13:02:59 Europe/Berlin] Header
+[28-Jul-2020 13:02:59 Europe/Berlin] Footer
+[28-Jul-2020 13:02:59 Europe/Berlin] PHP Warning:  Use of undefined constant length - assumed 'length' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\PortalPrint\partial_views\model_levelwise_details.php on line 13
+[28-Jul-2020 13:02:59 Europe/Berlin] PHP Notice:  Array to string conversion in C:\xampp\htdocs\PortalPrint\partial_views\model_levelwise_details.php on line 13
+[28-Jul-2020 13:03:02 Europe/Berlin] Header
+[28-Jul-2020 13:03:02 Europe/Berlin] Footer
+[28-Jul-2020 13:03:02 Europe/Berlin] PHP Warning:  Use of undefined constant length - assumed 'length' (this will throw an Error in a future version of PHP) in C:\xampp\htdocs\PortalPrint\partial_views\model_levelwise_details.php on line 13
+[28-Jul-2020 13:03:02 Europe/Berlin] PHP Notice:  Array to string conversion in C:\xampp\htdocs\PortalPrint\partial_views\model_levelwise_details.php on line 13
+[28-Jul-2020 13:03:21 Europe/Berlin] Header
+[28-Jul-2020 13:03:21 Europe/Berlin] Footer
+[28-Jul-2020 13:06:06 Europe/Berlin] Header
+[28-Jul-2020 13:06:06 Europe/Berlin] Footer
+[28-Jul-2020 13:06:11 Europe/Berlin] Header
+[28-Jul-2020 13:06:11 Europe/Berlin] Footer
+[28-Jul-2020 13:06:11 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\PortalPrint\partial_views\model_levelwise_details.php on line 13
+[28-Jul-2020 13:06:13 Europe/Berlin] Header
+[28-Jul-2020 13:06:13 Europe/Berlin] Footer
+[28-Jul-2020 13:06:16 Europe/Berlin] Header
+[28-Jul-2020 13:06:16 Europe/Berlin] Footer
+[28-Jul-2020 13:06:17 Europe/Berlin] Header
+[28-Jul-2020 13:06:17 Europe/Berlin] Footer
+[28-Jul-2020 13:07:53 Europe/Berlin] Header
+[28-Jul-2020 13:07:53 Europe/Berlin] Footer
+[28-Jul-2020 13:07:53 Europe/Berlin] PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\PortalPrint\partial_views\model_levelwise_details.php on line 28
+[28-Jul-2020 13:07:53 Europe/Berlin] PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\PortalPrint\partial_views\model_levelwise_details.php on line 28
+[28-Jul-2020 13:07:53 Europe/Berlin] PHP Notice:  A non well formed numeric value encountered in C:\xampp\htdocs\PortalPrint\partial_views\model_levelwise_details.php on line 50
+[28-Jul-2020 13:07:53 Europe/Berlin] PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\PortalPrint\partial_views\model_levelwise_details.php on line 50
+[28-Jul-2020 13:07:53 Europe/Berlin] PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\PortalPrint\partial_views\model_levelwise_details.php on line 28
+[28-Jul-2020 13:07:53 Europe/Berlin] PHP Notice:  A non well formed numeric value encountered in C:\xampp\htdocs\PortalPrint\partial_views\model_levelwise_details.php on line 50
+[28-Jul-2020 13:07:53 Europe/Berlin] PHP Warning:  A non-numeric value encountered in C:\xampp\htdocs\PortalPrint\partial_views\model_levelwise_details.php on line 50
+[28-Jul-2020 13:09:15 Europe/Berlin] Header
+[28-Jul-2020 13:09:15 Europe/Berlin] Footer
+[28-Jul-2020 13:09:42 Europe/Berlin] Header
+[28-Jul-2020 13:09:42 Europe/Berlin] Footer
+[28-Jul-2020 13:09:45 Europe/Berlin] Header
+[28-Jul-2020 13:09:45 Europe/Berlin] Footer
+[28-Jul-2020 13:09:47 Europe/Berlin] Header
+[28-Jul-2020 13:09:47 Europe/Berlin] Footer
+[28-Jul-2020 13:13:08 Europe/Berlin] Header
+[28-Jul-2020 13:13:08 Europe/Berlin] Footer
+[28-Jul-2020 13:13:18 Europe/Berlin] Header
+[28-Jul-2020 13:13:18 Europe/Berlin] Footer
+[28-Jul-2020 13:13:25 Europe/Berlin] Header
+[28-Jul-2020 13:13:25 Europe/Berlin] Footer
+[28-Jul-2020 13:13:38 Europe/Berlin] Header
+[28-Jul-2020 13:13:38 Europe/Berlin] Footer
+[28-Jul-2020 13:14:24 Europe/Berlin] Header
+[28-Jul-2020 13:14:24 Europe/Berlin] Footer
+[28-Jul-2020 13:14:55 Europe/Berlin] Header
+[28-Jul-2020 13:14:55 Europe/Berlin] Footer
+[28-Jul-2020 13:15:00 Europe/Berlin] Header
+[28-Jul-2020 13:15:00 Europe/Berlin] Footer
+[28-Jul-2020 13:15:42 Europe/Berlin] Header
+[28-Jul-2020 13:15:42 Europe/Berlin] Footer
+[28-Jul-2020 13:16:15 Europe/Berlin] Header
+[28-Jul-2020 13:16:15 Europe/Berlin] Footer
+[28-Jul-2020 13:18:31 Europe/Berlin] Header
+[28-Jul-2020 13:18:31 Europe/Berlin] Footer
+[28-Jul-2020 13:18:31 Europe/Berlin] PHP Notice:  Undefined variable: val in C:\xampp\htdocs\PortalPrint\partial_views\model_levelwise_details.php on line 23
+[28-Jul-2020 13:18:31 Europe/Berlin] PHP Notice:  Undefined variable: val in C:\xampp\htdocs\PortalPrint\partial_views\model_levelwise_details.php on line 23
+[28-Jul-2020 13:18:31 Europe/Berlin] PHP Notice:  Undefined variable: val in C:\xampp\htdocs\PortalPrint\partial_views\model_levelwise_details.php on line 23
+[28-Jul-2020 13:18:56 Europe/Berlin] Header
+[28-Jul-2020 13:18:56 Europe/Berlin] Footer
+[28-Jul-2020 13:19:21 Europe/Berlin] Header
+[28-Jul-2020 13:19:21 Europe/Berlin] Footer
+[28-Jul-2020 13:19:52 Europe/Berlin] Header
+[28-Jul-2020 13:19:52 Europe/Berlin] Footer
+[28-Jul-2020 13:19:57 Europe/Berlin] Header
+[28-Jul-2020 13:19:57 Europe/Berlin] Footer
+[28-Jul-2020 13:20:00 Europe/Berlin] Header
+[28-Jul-2020 13:20:00 Europe/Berlin] Footer
+[28-Jul-2020 13:20:00 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\PortalPrint\partial_views\model_levelwise_details.php on line 14
+[28-Jul-2020 13:20:01 Europe/Berlin] Header
+[28-Jul-2020 13:20:01 Europe/Berlin] Footer
+[28-Jul-2020 13:20:01 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\PortalPrint\partial_views\model_levelwise_details.php on line 14
+[28-Jul-2020 13:20:04 Europe/Berlin] Header
+[28-Jul-2020 13:20:04 Europe/Berlin] Footer
+[28-Jul-2020 13:20:04 Europe/Berlin] PHP Notice:  Undefined offset: 0 in C:\xampp\htdocs\PortalPrint\partial_views\model_levelwise_details.php on line 14
+[29-Jul-2020 06:01:43 Europe/Berlin] Header
+[29-Jul-2020 06:01:43 Europe/Berlin] Footer
+[29-Jul-2020 06:01:43 Europe/Berlin] Started
+[29-Jul-2020 06:01:52 Europe/Berlin] Header
+[29-Jul-2020 06:01:52 Europe/Berlin] Footer
+[29-Jul-2020 06:01:52 Europe/Berlin] Started
+[29-Jul-2020 06:01:59 Europe/Berlin] Header
+[29-Jul-2020 06:01:59 Europe/Berlin] Footer
+[29-Jul-2020 06:01:59 Europe/Berlin] Started
+[29-Jul-2020 06:03:29 Europe/Berlin] Header
+[29-Jul-2020 06:03:29 Europe/Berlin] Footer
+[29-Jul-2020 06:03:29 Europe/Berlin] Started
+[29-Jul-2020 06:03:34 Europe/Berlin] Header
+[29-Jul-2020 06:03:34 Europe/Berlin] Footer
+[29-Jul-2020 06:03:34 Europe/Berlin] Started
+[29-Jul-2020 06:03:37 Europe/Berlin] Header
+[29-Jul-2020 06:03:37 Europe/Berlin] Footer
+[29-Jul-2020 06:03:37 Europe/Berlin] Started
+[29-Jul-2020 06:03:40 Europe/Berlin] Header
+[29-Jul-2020 06:03:40 Europe/Berlin] Footer
+[29-Jul-2020 06:03:40 Europe/Berlin] Started
+[29-Jul-2020 06:03:42 Europe/Berlin] Header
+[29-Jul-2020 06:03:42 Europe/Berlin] Footer
+[29-Jul-2020 06:03:42 Europe/Berlin] Started
+[29-Jul-2020 06:04:20 Europe/Berlin] Header
+[29-Jul-2020 06:04:20 Europe/Berlin] Footer
+[29-Jul-2020 06:04:20 Europe/Berlin] Started
+[29-Jul-2020 06:06:20 Europe/Berlin] Header
+[29-Jul-2020 06:06:20 Europe/Berlin] Footer
+[29-Jul-2020 06:06:20 Europe/Berlin] Started
+[29-Jul-2020 06:06:37 Europe/Berlin] Header
+[29-Jul-2020 06:06:37 Europe/Berlin] Footer
+[29-Jul-2020 06:06:37 Europe/Berlin] Started
+[29-Jul-2020 06:08:57 Europe/Berlin] Header
+[29-Jul-2020 06:08:57 Europe/Berlin] Footer
+[29-Jul-2020 06:08:57 Europe/Berlin] Started
+[29-Jul-2020 06:09:04 Europe/Berlin] Header
+[29-Jul-2020 06:09:04 Europe/Berlin] Footer
+[29-Jul-2020 06:09:04 Europe/Berlin] Started
+[29-Jul-2020 07:52:08 Europe/Berlin] Header
+[29-Jul-2020 07:52:08 Europe/Berlin] Footer
+[29-Jul-2020 07:52:08 Europe/Berlin] Started
+[29-Jul-2020 08:00:27 Europe/Berlin] Header
+[29-Jul-2020 08:00:27 Europe/Berlin] Footer
+[29-Jul-2020 08:00:27 Europe/Berlin] Started
+[29-Jul-2020 08:00:29 Europe/Berlin] Header
+[29-Jul-2020 08:00:29 Europe/Berlin] Footer
+[29-Jul-2020 08:00:29 Europe/Berlin] Started
+[29-Jul-2020 08:00:31 Europe/Berlin] Header
+[29-Jul-2020 08:00:31 Europe/Berlin] Footer
+[29-Jul-2020 08:00:31 Europe/Berlin] Started
+[29-Jul-2020 08:00:33 Europe/Berlin] Header
+[29-Jul-2020 08:00:33 Europe/Berlin] Footer
+[29-Jul-2020 08:00:33 Europe/Berlin] Started
+[29-Jul-2020 08:00:37 Europe/Berlin] Header
+[29-Jul-2020 08:00:37 Europe/Berlin] Footer
+[29-Jul-2020 08:00:37 Europe/Berlin] Started
+[29-Jul-2020 08:00:39 Europe/Berlin] Header
+[29-Jul-2020 08:00:39 Europe/Berlin] Footer
+[29-Jul-2020 08:00:39 Europe/Berlin] Started
+[29-Jul-2020 08:00:40 Europe/Berlin] Header
+[29-Jul-2020 08:00:40 Europe/Berlin] Footer
+[29-Jul-2020 08:00:40 Europe/Berlin] Started
+[29-Jul-2020 08:00:45 Europe/Berlin] Header
+[29-Jul-2020 08:00:45 Europe/Berlin] Footer
+[29-Jul-2020 08:00:45 Europe/Berlin] Started
+[29-Jul-2020 08:00:46 Europe/Berlin] Header
+[29-Jul-2020 08:00:46 Europe/Berlin] Footer
+[29-Jul-2020 08:00:46 Europe/Berlin] Started
+[29-Jul-2020 08:00:48 Europe/Berlin] Header
+[29-Jul-2020 08:00:48 Europe/Berlin] Footer
+[29-Jul-2020 08:00:48 Europe/Berlin] Started
+[29-Jul-2020 08:00:50 Europe/Berlin] Header
+[29-Jul-2020 08:00:50 Europe/Berlin] Footer
+[29-Jul-2020 08:00:50 Europe/Berlin] Started
+[29-Jul-2020 08:00:52 Europe/Berlin] Header
+[29-Jul-2020 08:00:52 Europe/Berlin] Footer
+[29-Jul-2020 08:00:52 Europe/Berlin] Started
+[29-Jul-2020 08:00:53 Europe/Berlin] Header
+[29-Jul-2020 08:00:53 Europe/Berlin] Footer
+[29-Jul-2020 08:00:53 Europe/Berlin] Started
+[29-Jul-2020 08:00:55 Europe/Berlin] Header
+[29-Jul-2020 08:00:55 Europe/Berlin] Footer
+[29-Jul-2020 08:00:55 Europe/Berlin] Started
+[29-Jul-2020 08:13:34 Europe/Berlin] Header
+[29-Jul-2020 08:13:34 Europe/Berlin] Footer
+[29-Jul-2020 08:13:34 Europe/Berlin] Started
+[29-Jul-2020 08:14:03 Europe/Berlin] Header
+[29-Jul-2020 08:14:03 Europe/Berlin] Footer
+[29-Jul-2020 08:14:03 Europe/Berlin] Started
+[29-Jul-2020 08:14:05 Europe/Berlin] Header
+[29-Jul-2020 08:14:05 Europe/Berlin] Footer
+[29-Jul-2020 08:14:05 Europe/Berlin] Started
+[29-Jul-2020 08:14:07 Europe/Berlin] Header
+[29-Jul-2020 08:14:07 Europe/Berlin] Footer
+[29-Jul-2020 08:14:07 Europe/Berlin] Started
+[29-Jul-2020 12:39:19 Europe/Berlin] Header
+[29-Jul-2020 12:39:19 Europe/Berlin] Footer
+[29-Jul-2020 12:39:19 Europe/Berlin] Started
+[30-Jul-2020 13:40:46 Europe/Berlin] Header
+[30-Jul-2020 13:40:46 Europe/Berlin] Footer
+[30-Jul-2020 13:40:46 Europe/Berlin] Started
+[30-Jul-2020 13:40:49 Europe/Berlin] Header
+[30-Jul-2020 13:40:49 Europe/Berlin] Footer
+[30-Jul-2020 13:40:49 Europe/Berlin] Started
+[31-Jul-2020 07:13:09 Europe/Berlin] Header
+[31-Jul-2020 07:13:09 Europe/Berlin] Footer
+[31-Jul-2020 07:13:09 Europe/Berlin] Started
+[31-Jul-2020 07:13:23 Europe/Berlin] Header
+[31-Jul-2020 07:13:23 Europe/Berlin] Footer
+[31-Jul-2020 07:13:23 Europe/Berlin] Started
+[31-Jul-2020 08:46:13 Europe/Berlin] Header
+[31-Jul-2020 08:46:13 Europe/Berlin] Footer
+[31-Jul-2020 08:46:13 Europe/Berlin] Started
+[31-Jul-2020 08:46:15 Europe/Berlin] Header
+[31-Jul-2020 08:46:15 Europe/Berlin] Footer
+[31-Jul-2020 08:46:15 Europe/Berlin] Started
+[31-Jul-2020 08:46:17 Europe/Berlin] Header
+[31-Jul-2020 08:46:17 Europe/Berlin] Footer
+[31-Jul-2020 08:46:17 Europe/Berlin] Started
+[31-Jul-2020 08:46:18 Europe/Berlin] Header
+[31-Jul-2020 08:46:18 Europe/Berlin] Footer
+[31-Jul-2020 08:46:18 Europe/Berlin] Started
+[31-Jul-2020 08:46:21 Europe/Berlin] Header
+[31-Jul-2020 08:46:21 Europe/Berlin] Footer
+[31-Jul-2020 08:46:21 Europe/Berlin] Started
+[31-Jul-2020 08:46:54 Europe/Berlin] Header
+[31-Jul-2020 08:46:54 Europe/Berlin] Footer
+[31-Jul-2020 08:46:54 Europe/Berlin] Started
+[31-Aug-2020 13:06:00 Europe/Berlin] Header
+[31-Aug-2020 13:06:00 Europe/Berlin] PHP Notice:  Undefined variable: _SESSION in C:\xampp\htdocs\PortalPrint\controller\dbOperations.php on line 246
+[31-Aug-2020 13:06:00 Europe/Berlin] PHP Notice:  Undefined offset: 1 in C:\xampp\htdocs\PortalPrint\controller\dbOperations.php on line 248
+[31-Aug-2020 13:06:00 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp\htdocs\PortalPrint\controller\dbOperations.php on line 248
+[31-Aug-2020 13:06:00 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\PortalPrint\partial_views\location_wise_assets.php on line 24
+[31-Aug-2020 13:06:29 Europe/Berlin] Header
+[31-Aug-2020 13:06:29 Europe/Berlin] PHP Notice:  Undefined variable: _SESSION in C:\xampp\htdocs\PortalPrint\controller\dbOperations.php on line 246
+[31-Aug-2020 13:06:29 Europe/Berlin] PHP Notice:  Undefined offset: 1 in C:\xampp\htdocs\PortalPrint\controller\dbOperations.php on line 248
+[31-Aug-2020 13:06:29 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp\htdocs\PortalPrint\controller\dbOperations.php on line 248
+[31-Aug-2020 13:06:29 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\PortalPrint\partial_views\location_wise_assets.php on line 24
+[31-Aug-2020 13:30:09 Europe/Berlin] Header
+[31-Aug-2020 13:30:18 Europe/Berlin] Header
+[31-Aug-2020 13:30:20 Europe/Berlin] Header
+[31-Aug-2020 13:30:22 Europe/Berlin] Header
+[31-Aug-2020 13:30:35 Europe/Berlin] Header
+[31-Aug-2020 13:30:35 Europe/Berlin] PHP Notice:  Undefined offset: 1 in C:\xampp\htdocs\PortalPrint\controller\dbOperations.php on line 248
+[31-Aug-2020 13:30:35 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp\htdocs\PortalPrint\controller\dbOperations.php on line 248
+[31-Aug-2020 13:30:35 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\PortalPrint\partial_views\location_wise_assets.php on line 24
+[31-Aug-2020 13:32:20 Europe/Berlin] Header
+[31-Aug-2020 13:32:25 Europe/Berlin] Header
+[31-Aug-2020 13:32:27 Europe/Berlin] Header
+[31-Aug-2020 13:32:29 Europe/Berlin] Header
+[31-Aug-2020 13:33:44 Europe/Berlin] Header
+[31-Aug-2020 13:33:49 Europe/Berlin] Header
+[31-Aug-2020 13:34:11 Europe/Berlin] Header
+[02-Sep-2020 05:50:30 Europe/Berlin] Header
+[02-Sep-2020 05:50:37 Europe/Berlin] Header
+[02-Sep-2020 05:50:43 Europe/Berlin] Header
+[02-Sep-2020 05:50:45 Europe/Berlin] Header
+[02-Sep-2020 09:51:49 Europe/Berlin] Header
+[02-Sep-2020 09:51:53 Europe/Berlin] Header
+[02-Sep-2020 09:51:58 Europe/Berlin] Header
+[02-Sep-2020 09:52:19 Europe/Berlin] Header
+[02-Sep-2020 09:52:21 Europe/Berlin] Header
+[02-Sep-2020 14:48:34 Europe/Berlin] Header
+[02-Sep-2020 14:48:34 Europe/Berlin] PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\PortalPrint\controller\dbOperations.php on line 326
+[02-Sep-2020 14:48:34 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp\htdocs\PortalPrint\controller\dbOperations.php on line 326
+[02-Sep-2020 14:48:34 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\PortalPrint\partial_views\model_found_assets.php on line 26
+[02-Sep-2020 14:48:44 Europe/Berlin] Header
+[02-Sep-2020 14:49:29 Europe/Berlin] Header
+[02-Sep-2020 14:50:04 Europe/Berlin] Header
+[02-Sep-2020 14:51:13 Europe/Berlin] Header
+[02-Sep-2020 14:51:18 Europe/Berlin] Header
+[02-Sep-2020 14:51:59 Europe/Berlin] Header
+[02-Sep-2020 14:51:59 Europe/Berlin] PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\PortalPrint\controller\dbOperations.php on line 326
+[02-Sep-2020 14:51:59 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp\htdocs\PortalPrint\controller\dbOperations.php on line 326
+[02-Sep-2020 14:51:59 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\PortalPrint\partial_views\model_found_assets.php on line 26
+[02-Sep-2020 14:53:22 Europe/Berlin] Header
+[02-Sep-2020 14:53:32 Europe/Berlin] Header
+[02-Sep-2020 14:53:35 Europe/Berlin] Header
+[02-Sep-2020 14:53:37 Europe/Berlin] Header
+[02-Sep-2020 14:53:41 Europe/Berlin] Header
+[02-Sep-2020 15:10:54 Europe/Berlin] Header
+[02-Sep-2020 15:11:18 Europe/Berlin] Header
+[02-Sep-2020 15:11:22 Europe/Berlin] Header
+[02-Sep-2020 15:11:26 Europe/Berlin] Header
+[02-Sep-2020 15:12:13 Europe/Berlin] Header
+[02-Sep-2020 15:12:17 Europe/Berlin] Header
+[02-Sep-2020 15:12:18 Europe/Berlin] Header
+[03-Sep-2020 05:54:08 Europe/Berlin] Header
+[03-Sep-2020 05:54:10 Europe/Berlin] Header
+[03-Sep-2020 05:59:19 Europe/Berlin] Header
+[03-Sep-2020 05:59:21 Europe/Berlin] Header
+[03-Sep-2020 05:59:23 Europe/Berlin] Header
+[03-Sep-2020 05:59:25 Europe/Berlin] Header
+[03-Sep-2020 05:59:40 Europe/Berlin] Header
+[03-Sep-2020 05:59:43 Europe/Berlin] Header
+[03-Sep-2020 05:59:44 Europe/Berlin] Header
+[03-Sep-2020 06:24:01 Europe/Berlin] Header
+[03-Sep-2020 06:24:03 Europe/Berlin] Header
+[03-Sep-2020 08:22:33 Europe/Berlin] Header
+[03-Sep-2020 08:22:36 Europe/Berlin] Header
+[03-Sep-2020 08:22:37 Europe/Berlin] Header
+[03-Sep-2020 08:22:39 Europe/Berlin] Header
+[03-Sep-2020 09:03:13 Europe/Berlin] Header
+[03-Sep-2020 10:44:49 Europe/Berlin] Header
+[03-Sep-2020 11:42:24 Europe/Berlin] Header
+[03-Sep-2020 11:57:14 Europe/Berlin] Header
+[03-Sep-2020 13:30:19 Europe/Berlin] Header
+[03-Sep-2020 13:30:25 Europe/Berlin] Header
+[03-Sep-2020 13:30:28 Europe/Berlin] Header
+[03-Sep-2020 13:53:06 Europe/Berlin] Header
+[03-Sep-2020 13:53:06 Europe/Berlin] PHP Notice:  Undefined variable: _SESSION in C:\xampp\htdocs\PortalPrint\controller\dbOperations.php on line 264
+[03-Sep-2020 13:53:06 Europe/Berlin] PHP Notice:  Undefined offset: 2 in C:\xampp\htdocs\PortalPrint\controller\dbOperations.php on line 266
+[03-Sep-2020 13:53:06 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\xampp\htdocs\PortalPrint\controller\dbOperations.php on line 266
+[03-Sep-2020 13:57:52 Europe/Berlin] Header
+[03-Sep-2020 13:57:57 Europe/Berlin] Header
+[03-Sep-2020 14:07:18 Europe/Berlin] Header
+[03-Sep-2020 14:07:23 Europe/Berlin] Header
+[03-Sep-2020 14:07:25 Europe/Berlin] Header
+[03-Sep-2020 14:07:28 Europe/Berlin] Header
+[03-Sep-2020 14:07:30 Europe/Berlin] Header
+[03-Sep-2020 14:07:40 Europe/Berlin] Header
+[03-Sep-2020 14:07:42 Europe/Berlin] Header
+[03-Sep-2020 14:07:44 Europe/Berlin] Header
+[03-Sep-2020 14:09:09 Europe/Berlin] Header
+[03-Sep-2020 14:09:14 Europe/Berlin] Header
+[03-Sep-2020 14:13:44 Europe/Berlin] Header
+[03-Sep-2020 14:13:49 Europe/Berlin] Header
+[03-Sep-2020 14:14:03 Europe/Berlin] Header
+[03-Sep-2020 14:14:04 Europe/Berlin] Header
+[03-Sep-2020 14:14:05 Europe/Berlin] Header
+[04-Sep-2020 06:09:47 Europe/Berlin] Header
+[07-Sep-2020 12:11:59 Europe/Berlin] Header
+[07-Sep-2020 12:12:08 Europe/Berlin] Header
+[07-Sep-2020 12:12:13 Europe/Berlin] Header
+[07-Sep-2020 12:12:15 Europe/Berlin] Header
+[07-Sep-2020 12:12:22 Europe/Berlin] Header
+[07-Sep-2020 12:20:14 Europe/Berlin] Header
+[07-Sep-2020 12:20:21 Europe/Berlin] Header
+[07-Sep-2020 12:20:30 Europe/Berlin] Header
+[07-Sep-2020 12:20:31 Europe/Berlin] Header
+[08-Sep-2020 11:32:28 UTC] Header
+[08-Sep-2020 11:33:00 UTC] Header
+[08-Sep-2020 11:33:06 UTC] Header
+[08-Sep-2020 11:33:10 UTC] Header
+[08-Sep-2020 11:33:23 UTC] Header
+[08-Sep-2020 11:36:48 UTC] Header
+[08-Sep-2020 11:38:24 UTC] Header
+[08-Sep-2020 11:49:55 UTC] Header
+[08-Sep-2020 11:49:58 UTC] Header
+[09-Sep-2020 05:54:32 UTC] Header
+[09-Sep-2020 05:54:35 UTC] Header
+[09-Sep-2020 05:54:39 UTC] Header
+[09-Sep-2020 05:59:02 UTC] Header
+[09-Sep-2020 05:59:23 UTC] Header
+[09-Sep-2020 05:59:35 UTC] Header
+[09-Sep-2020 06:01:47 UTC] Header
+[09-Sep-2020 06:01:47 UTC] Header
+[09-Sep-2020 06:01:47 UTC] Header
+[09-Sep-2020 06:01:55 UTC] Header
+[09-Sep-2020 06:02:06 UTC] Header
+[09-Sep-2020 06:06:49 UTC] Header
+[09-Sep-2020 06:06:53 UTC] Header
+[09-Sep-2020 06:06:56 UTC] Header
+[09-Sep-2020 06:07:37 UTC] Header
+[09-Sep-2020 06:07:41 UTC] Header
+[09-Sep-2020 06:07:44 UTC] Header
+[09-Sep-2020 06:07:47 UTC] Header
+[09-Sep-2020 06:07:50 UTC] Header
+[09-Sep-2020 06:07:52 UTC] Header
+[09-Sep-2020 06:07:56 UTC] Header
+[09-Sep-2020 06:07:57 UTC] Header
+[09-Sep-2020 06:07:59 UTC] Header
+[09-Sep-2020 06:08:29 UTC] Header
+[09-Sep-2020 06:08:48 UTC] Header
+[09-Sep-2020 06:08:51 UTC] Header
+[09-Sep-2020 06:11:54 UTC] Header
+[09-Sep-2020 06:11:57 UTC] Header
+[09-Sep-2020 06:11:58 UTC] Header
+[09-Sep-2020 06:12:00 UTC] Header
+[09-Sep-2020 06:12:02 UTC] Header
+[09-Sep-2020 06:12:04 UTC] Header
+[09-Sep-2020 06:12:05 UTC] Header
+[09-Sep-2020 06:12:07 UTC] Header
+[09-Sep-2020 06:12:09 UTC] Header
+[09-Sep-2020 06:12:17 UTC] Header
+[09-Sep-2020 06:12:19 UTC] Header
+[09-Sep-2020 06:12:22 UTC] Header
+[09-Sep-2020 06:12:32 UTC] Header
+[09-Sep-2020 06:19:52 UTC] Header
+[09-Sep-2020 06:20:18 UTC] Header
+[09-Sep-2020 06:20:22 UTC] Header
+[09-Sep-2020 06:20:25 UTC] Header
+[09-Sep-2020 06:20:26 UTC] Header
+[09-Sep-2020 06:20:29 UTC] Header
+[09-Sep-2020 06:20:33 UTC] Header
+[09-Sep-2020 06:20:37 UTC] Header
+[09-Sep-2020 06:20:42 UTC] Header
+[09-Sep-2020 06:20:47 UTC] Header
+[09-Sep-2020 06:20:50 UTC] Header
+[09-Sep-2020 06:20:56 UTC] Header
+[09-Sep-2020 06:20:58 UTC] Header
+[09-Sep-2020 06:21:00 UTC] Header
+[09-Sep-2020 06:21:02 UTC] Header
+[09-Sep-2020 06:21:06 UTC] Header
+[09-Sep-2020 06:21:08 UTC] Header
+[09-Sep-2020 06:21:10 UTC] Header
+[09-Sep-2020 06:21:14 UTC] Header
+[09-Sep-2020 06:21:16 UTC] Header
+[09-Sep-2020 06:21:17 UTC] Header
+[09-Sep-2020 06:21:19 UTC] Header
+[09-Sep-2020 06:21:20 UTC] Header
+[09-Sep-2020 06:21:22 UTC] Header
+[09-Sep-2020 06:21:25 UTC] Header
+[09-Sep-2020 06:21:26 UTC] Header
+[09-Sep-2020 06:21:34 UTC] Header
+[09-Sep-2020 06:22:47 UTC] Header
+[09-Sep-2020 06:22:50 UTC] Header
+[09-Sep-2020 06:23:13 UTC] Header
+[09-Sep-2020 06:23:17 UTC] Header
+[09-Sep-2020 06:23:23 UTC] Header
+[09-Sep-2020 06:23:26 UTC] Header
+[09-Sep-2020 06:23:30 UTC] Header
+[09-Sep-2020 06:23:35 UTC] Header
+[09-Sep-2020 06:23:47 UTC] Header
+[09-Sep-2020 06:23:53 UTC] Header
+[09-Sep-2020 06:23:57 UTC] Header
+[09-Sep-2020 06:24:01 UTC] Header
+[09-Sep-2020 06:24:04 UTC] Header
+[09-Sep-2020 06:24:06 UTC] Header
+[09-Sep-2020 06:24:09 UTC] Header
+[09-Sep-2020 06:24:16 UTC] Header
+[09-Sep-2020 06:24:25 UTC] Header
+[09-Sep-2020 06:24:31 UTC] Header
+[09-Sep-2020 06:25:14 UTC] Header
+[09-Sep-2020 06:25:17 UTC] Header
+[09-Sep-2020 06:25:20 UTC] Header
+[09-Sep-2020 06:25:23 UTC] Header
+[09-Sep-2020 06:25:48 UTC] Header
+[09-Sep-2020 06:25:53 UTC] Header
+[09-Sep-2020 06:27:02 UTC] Header
+[09-Sep-2020 06:27:05 UTC] Header
+[09-Sep-2020 06:27:07 UTC] Header
+[09-Sep-2020 06:27:10 UTC] Header
+[09-Sep-2020 06:27:18 UTC] Header
+[09-Sep-2020 06:27:21 UTC] Header
+[09-Sep-2020 06:30:51 UTC] Header
+[09-Sep-2020 06:30:54 UTC] Header
+[09-Sep-2020 06:30:57 UTC] Header
+[09-Sep-2020 06:30:59 UTC] Header
+[09-Sep-2020 06:31:05 UTC] Header
+[09-Sep-2020 06:31:14 UTC] Header
+[09-Sep-2020 06:31:26 UTC] Header
+[09-Sep-2020 06:31:29 UTC] Header
+[09-Sep-2020 06:31:40 UTC] Header
+[09-Sep-2020 06:31:46 UTC] Header
+[09-Sep-2020 06:31:49 UTC] Header
+[09-Sep-2020 06:35:15 UTC] Header
+[09-Sep-2020 06:35:17 UTC] Header
+[09-Sep-2020 06:35:25 UTC] Header
+[09-Sep-2020 06:35:28 UTC] Header
+[09-Sep-2020 06:35:43 UTC] Header
+[09-Sep-2020 06:35:48 UTC] Header
+[09-Sep-2020 06:35:50 UTC] Header
+[09-Sep-2020 06:36:20 UTC] Header
+[09-Sep-2020 06:36:27 UTC] Header
+[09-Sep-2020 06:36:33 UTC] Header
+[09-Sep-2020 06:36:36 UTC] Header
+[09-Sep-2020 06:36:37 UTC] Header
+[09-Sep-2020 06:36:39 UTC] Header
+[09-Sep-2020 06:36:40 UTC] Header
+[09-Sep-2020 06:38:07 UTC] Header
+[09-Sep-2020 06:38:09 UTC] Header
+[09-Sep-2020 06:38:11 UTC] Header
+[09-Sep-2020 06:38:13 UTC] Header
+[09-Sep-2020 06:38:16 UTC] Header
+[09-Sep-2020 06:38:59 UTC] Header
+[09-Sep-2020 06:39:02 UTC] Header
+[09-Sep-2020 06:39:05 UTC] Header
+[09-Sep-2020 06:39:18 UTC] Header
+[09-Sep-2020 06:39:23 UTC] Header
+[09-Sep-2020 06:39:29 UTC] Header
+[09-Sep-2020 06:39:32 UTC] Header
+[09-Sep-2020 06:39:41 UTC] Header
+[09-Sep-2020 06:40:39 UTC] Header
+[09-Sep-2020 06:41:04 UTC] Header
+[09-Sep-2020 06:41:08 UTC] Header
+[09-Sep-2020 06:41:15 UTC] Header
+[09-Sep-2020 06:41:18 UTC] Header
+[09-Sep-2020 06:41:20 UTC] Header
+[09-Sep-2020 06:41:25 UTC] Header
+[09-Sep-2020 06:41:27 UTC] Header
+[09-Sep-2020 06:41:28 UTC] Header
+[09-Sep-2020 06:41:29 UTC] Header
+[09-Sep-2020 06:43:25 UTC] Header
+[09-Sep-2020 06:43:29 UTC] Header
+[09-Sep-2020 06:43:40 UTC] Header
+[09-Sep-2020 06:43:43 UTC] Header
+[09-Sep-2020 06:43:48 UTC] Header
+[09-Sep-2020 06:43:50 UTC] Header
+[09-Sep-2020 06:43:52 UTC] Header
+[09-Sep-2020 06:44:26 UTC] Header
+[09-Sep-2020 06:44:30 UTC] Header
+[09-Sep-2020 06:44:32 UTC] Header
+[09-Sep-2020 06:44:35 UTC] Header
+[09-Sep-2020 06:44:57 UTC] Header
+[09-Sep-2020 06:44:59 UTC] Header
+[09-Sep-2020 06:45:00 UTC] Header
+[09-Sep-2020 06:45:05 UTC] Header
+[09-Sep-2020 06:45:07 UTC] Header
+[09-Sep-2020 06:45:09 UTC] Header
+[09-Sep-2020 06:46:42 UTC] Header
+[09-Sep-2020 06:46:47 UTC] Header
+[09-Sep-2020 06:46:50 UTC] Header
+[09-Sep-2020 06:46:53 UTC] Header
+[09-Sep-2020 06:46:57 UTC] Header
+[09-Sep-2020 06:50:01 UTC] Header
+[09-Sep-2020 06:50:06 UTC] Header
+[09-Sep-2020 06:50:10 UTC] Header
+[09-Sep-2020 06:50:12 UTC] Header
+[09-Sep-2020 06:50:15 UTC] Header
+[09-Sep-2020 06:51:10 UTC] Header
+[09-Sep-2020 06:51:13 UTC] Header
+[09-Sep-2020 06:51:16 UTC] Header
+[09-Sep-2020 06:51:21 UTC] Header
+[09-Sep-2020 06:51:23 UTC] Header
+[09-Sep-2020 06:51:25 UTC] Header
+[09-Sep-2020 06:51:27 UTC] Header
+[09-Sep-2020 06:51:29 UTC] Header
+[09-Sep-2020 06:51:30 UTC] Header
+[09-Sep-2020 06:51:32 UTC] Header
+[09-Sep-2020 06:51:33 UTC] Header
+[09-Sep-2020 06:51:34 UTC] Header
+[09-Sep-2020 06:51:35 UTC] Header
+[09-Sep-2020 06:51:36 UTC] Header
+[09-Sep-2020 06:51:37 UTC] Header
+[09-Sep-2020 06:51:40 UTC] Header
+[09-Sep-2020 06:51:42 UTC] Header
+[09-Sep-2020 06:51:43 UTC] Header
+[09-Sep-2020 06:51:45 UTC] Header
+[09-Sep-2020 06:51:47 UTC] Header
+[09-Sep-2020 06:51:48 UTC] Header
+[09-Sep-2020 06:51:50 UTC] Header
+[09-Sep-2020 06:53:17 UTC] Header
+[09-Sep-2020 06:53:22 UTC] Header
+[09-Sep-2020 06:53:24 UTC] Header
+[09-Sep-2020 06:53:28 UTC] Header
+[09-Sep-2020 06:53:31 UTC] Header
+[09-Sep-2020 06:53:35 UTC] Header
+[09-Sep-2020 06:53:39 UTC] Header
+[09-Sep-2020 06:53:41 UTC] Header
+[09-Sep-2020 06:54:01 UTC] Header
+[09-Sep-2020 06:54:04 UTC] Header
+[09-Sep-2020 06:54:08 UTC] Header
+[09-Sep-2020 06:54:22 UTC] Header
+[09-Sep-2020 06:54:24 UTC] Header
+[09-Sep-2020 06:54:27 UTC] Header
+[09-Sep-2020 06:54:30 UTC] Header
+[09-Sep-2020 06:54:32 UTC] Header
+[09-Sep-2020 06:54:35 UTC] Header
+[09-Sep-2020 06:54:46 UTC] Header
+[09-Sep-2020 06:55:07 UTC] Header
+[09-Sep-2020 06:55:09 UTC] Header
+[09-Sep-2020 06:55:12 UTC] Header
+[09-Sep-2020 06:55:16 UTC] Header
+[09-Sep-2020 06:55:19 UTC] Header
+[09-Sep-2020 06:55:21 UTC] Header
+[09-Sep-2020 06:55:23 UTC] Header
+[09-Sep-2020 06:55:27 UTC] Header
+[09-Sep-2020 06:55:29 UTC] Header
+[09-Sep-2020 06:56:25 UTC] Header
+[09-Sep-2020 06:56:28 UTC] Header
+[09-Sep-2020 06:59:19 UTC] Header
+[09-Sep-2020 06:59:22 UTC] Header
+[09-Sep-2020 06:59:26 UTC] Header
+[09-Sep-2020 06:59:47 UTC] Header
+[09-Sep-2020 06:59:49 UTC] Header
+[09-Sep-2020 07:00:06 UTC] Header
+[09-Sep-2020 07:00:27 UTC] Header
+[09-Sep-2020 07:00:29 UTC] Header
+[09-Sep-2020 07:00:31 UTC] Header
+[09-Sep-2020 07:00:33 UTC] Header
+[09-Sep-2020 07:58:26 UTC] Header
+[09-Sep-2020 09:16:58 UTC] Header
+[09-Sep-2020 09:19:23 UTC] Header
+[09-Sep-2020 09:21:54 UTC] Header
+[09-Sep-2020 09:22:25 UTC] Header
+[09-Sep-2020 09:22:38 UTC] Header
+[10-Sep-2020 05:14:32 UTC] Header
+[10-Sep-2020 05:14:42 UTC] Header
+[10-Sep-2020 05:14:46 UTC] Header
+[10-Sep-2020 05:14:49 UTC] Header
+[10-Sep-2020 05:14:57 UTC] Header
+[05-Oct-2020 06:32:06 UTC] Header
+[05-Oct-2020 06:32:08 UTC] Header
+[05-Oct-2020 06:32:09 UTC] Header
+[09-Oct-2020 07:04:53 UTC] Header
+[09-Oct-2020 07:04:56 UTC] Header
+[09-Oct-2020 07:05:04 UTC] Header
+[09-Oct-2020 07:05:07 UTC] Header
+[21-Oct-2020 18:05:05 UTC] Header
+[06-Jan-2021 05:06:06 UTC] Header
+[23-Mar-2021 07:37:02 UTC] Header

@@ -1,0 +1,31 @@
+[08-Oct-2020 07:18:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/crosspoint/public_html/DEMO/api/apistore.php on line 10
+[08-Oct-2020 07:18:43 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/crosspoint/public_html/DEMO/api/apistore.php on line 20
+[08-Oct-2020 07:20:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/crosspoint/public_html/DEMO/api/apistore.php on line 10
+[08-Oct-2020 07:20:46 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/crosspoint/public_html/DEMO/api/apistore.php on line 20
+[08-Oct-2020 07:22:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/crosspoint/public_html/DEMO/api/apistore.php on line 10
+[08-Oct-2020 07:22:43 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/crosspoint/public_html/DEMO/api/apistore.php on line 20
+[08-Oct-2020 07:24:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/crosspoint/public_html/DEMO/api/apistore.php on line 10
+[08-Oct-2020 07:24:46 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/crosspoint/public_html/DEMO/api/apistore.php on line 20
+[08-Oct-2020 09:39:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/crosspoint/public_html/DEMO/api/apistore.php on line 10
+[11-Oct-2020 06:03:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/crosspoint/public_html/DEMO/api/DataSelect.php on line 7
+[11-Oct-2020 06:03:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/crosspoint/public_html/DEMO/api/DataSelect.php on line 8
+[11-Oct-2020 06:03:55 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/crosspoint/public_html/DEMO/api/DataSelect.php on line 15
+[11-Oct-2020 06:04:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/crosspoint/public_html/DEMO/api/DataSelect.php on line 6
+[11-Oct-2020 06:04:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/crosspoint/public_html/DEMO/api/DataSelect.php on line 7
+[11-Oct-2020 06:04:58 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/crosspoint/public_html/DEMO/api/DataSelect.php on line 14
+[11-Oct-2020 06:07:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/crosspoint/public_html/DEMO/api/DataSelect.php on line 6
+[11-Oct-2020 06:07:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/crosspoint/public_html/DEMO/api/DataSelect.php on line 7
+[11-Oct-2020 06:07:56 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/crosspoint/public_html/DEMO/api/DataSelect.php on line 14
+[11-Oct-2020 07:16:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/crosspoint/public_html/DEMO/api/DataSelect.php on line 16
+[26-Oct-2020 08:25:13 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/crosspoint/public_html/DEMO/api/DropDownListLoad.php on line 18
+[26-Oct-2020 08:25:13 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/crosspoint/public_html/DEMO/api/DropDownListLoad.php on line 18
+[26-Oct-2020 08:25:13 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/crosspoint/public_html/DEMO/api/DropDownListLoad.php on line 18
+[26-Oct-2020 08:25:13 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/crosspoint/public_html/DEMO/api/DropDownListLoad.php on line 20
+[26-Oct-2020 08:28:26 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/crosspoint/public_html/DEMO/api/DropDownListLoad.php on line 18
+[26-Oct-2020 08:28:26 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/crosspoint/public_html/DEMO/api/DropDownListLoad.php on line 18
+[26-Oct-2020 08:28:26 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/crosspoint/public_html/DEMO/api/DropDownListLoad.php on line 18
+[26-Oct-2020 08:28:26 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/crosspoint/public_html/DEMO/api/DropDownListLoad.php on line 20
+[26-Oct-2020 08:58:03 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/crosspoint/public_html/DEMO/api/DropDownListLoad.php on line 18
+[26-Oct-2020 08:58:03 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/crosspoint/public_html/DEMO/api/DropDownListLoad.php on line 18
+[26-Oct-2020 08:58:03 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/crosspoint/public_html/DEMO/api/DropDownListLoad.php on line 18
+[26-Oct-2020 08:58:03 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/crosspoint/public_html/DEMO/api/DropDownListLoad.php on line 20
